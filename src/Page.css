@@ -1,0 +1,66 @@
+.page{
+    position: relative;
+width: 1440px;
+height: 720px;
+
+/* Color/Primary */
+
+background: #E69C8B;
+}
+.basic-styleguide{
+position: absolute;
+left: 18.39%;
+right: 42.78%;
+top: 33.35%;
+bottom: 33.03%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 121px;
+
+/* Color/White */
+
+color: #FFFFFF;
+}
+.name{
+    position: absolute;
+left: 18.39%;
+right: 65.98%;
+top: 72.52%;
+bottom: 21.51%;
+
+/* Heading/32 H2 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 43px;
+/* identical to box height, or 134% */
+
+
+/* Color/White */
+
+color: #FFFFFF;
+}
+.email{
+    position: absolute;
+left: 18.39%;
+right: 59.31%;
+top: 79.19%;
+bottom: 17.06%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 132% */
+
+
+/* Color/White */
+
+color: #FFFFFF;
+}

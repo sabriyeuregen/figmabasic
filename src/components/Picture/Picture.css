@@ -1,0 +1,31 @@
+.logo{
+    position: absolute;
+    left: 20.07%;
+    right: 64.53%;
+    top: 15.97%;
+    bottom: 74.68%;
+}
+.pictureOne{
+    position: absolute;
+    left: 54.09%;
+    right: 5.05%;
+    top: 9.97%;
+    bottom: -59.92%;
+    
+    background: url(Untitled.png);
+    filter: drop-shadow(0px 3px 30px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+    transform: rotate(-11deg);
+}
+.pictureTwo{
+    position: absolute;
+    left: 67.01%;
+    right: -7.87%;
+    top: -81.63%;
+    bottom: 31.68%;
+    
+    background: url(Untitled.png);
+    filter: drop-shadow(0px 3px 30px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+    transform: rotate(-11deg);
+}
